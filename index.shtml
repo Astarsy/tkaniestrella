@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
+<title>Ткани Estrella- магазин тканей в Волгограде</title>
+<link rel="icon" href="img/favicon.png" type="image/png"> 
+<link rel="shortcut icon" href="favicon.png" type="image/png">
+<meta name="description" content="Магазин тканей в Волгограде. Ткани для одежды. Швейная фурнитура. Магазин Ткани Estrella предлагает широкий ассортимент натуральных, синтетических и смесовых тканей в Волгограде и Волжском.">
+<link href="css/1.css" rel="stylesheet"/>
+<script src="lib/jquery-1.11.2.min.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="mypos">0</div>
+<!--#config ERRMSG="Нет описания."-->
+<div id="maket">
+<!--#include file="hed.html"-->
+<!--#include file="nav.html"-->
+<!--#include file="cont.shtml"-->
+<!--#include file="foo.html"-->
+</div>
+</body>
+</html>

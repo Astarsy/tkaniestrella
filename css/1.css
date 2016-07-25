@@ -1,0 +1,143 @@
+* {margin:0;padding:0}
+body{font-family:'Segoe UI', Arial, Helvetica, sans-serif;font-style:italic;
+	background:url(../img/back.jpg) no-repeat center center fixed;
+	background-size:cover}
+#maket{width:1024px;margin:auto;position:relative;background:#fff}
+
+p,h3{text-indent:1em}
+h1,h2,h4{text-align:center}
+header{background:#001b8e;height:170px}
+header #headtext{padding:12px 15px 0 0;color:white;text-align:right}
+header #headtext #toptext{font-size:x-large;font-weight:bold}
+header #headtext #bottext{margin-top:20px}
+a:visited,a:link{color:blue}
+a {text-decoration:none}
+#logo{margin-left:20px;float:left;background:url(../img/logo.jpg);width:476px;height:157px}
+#conttop{float:left}
+#conttopleft{float:left;width:650px;height:420px;background-image:url(../img/slideshow/0.jpg);}
+#conttopleft img{width:100%;height:100%}
+#conttopright{width:100%;height:420px;color:white}
+#conttoprighttop,#conttoprightmid,#conttoprightbot{
+	float:right;height:33.33%;max-width:364px;padding-left:10px}
+#conttoprighttop{background:#00bff3}
+#conttoprightmid{background:#39b54a}
+#conttoprightbot{background:#f26522}
+#content{background:white;float:left;width:1024px}
+#content2col{background:white;float:left;width:800px}
+#maincont{float:left}
+#maincont ul{list-style:none}
+.tblock{float:left;background:#fbb;color:#333;margin:10px 15px 20px}
+.foto {width:226px;height:226px;cursor:pointer;}
+.novinka{float:left;width:65%;height:60%;background:url(../img/novinka.png) no-repeat;background-size:contain;}
+.discription{float:left;background:white;width:216px;height:140px;margin:0;padding:0 5px 0 5px}
+.name{font-weight:bolder}
+.price{font-weight:bolder;text-align:right;color:#393}
+#contbot{background:#eee;float:left;margin:20px 0 0 0}
+#contbottext{margin:10px;}
+
+.splash{position:fixed;width:900px;height:900px;background-color:black;opacity:.5;display:none;}
+.bigfoto{position:fixed;width:800px;height:800px;background-image:url(../img/800/nofoto.jpg);background-repeat:no-repeat;background-position:50%;display:none;border:6px solid white;border-radius:15px;}
+
+nav{font-size:x-large;font-weight:bold;background:#eee;float:left;width:100%;margin:5px 0}
+nav ul{list-style:none;margin-left:0px}
+nav li{float:left;margin: 0 0.8em .3em 0.9em}
+nav li:last-child a{color: #0a0;text-shadow: 0 0 5px #0f0}
+
+#footer{float:left;clear:both;background:#001b8e;color:white}
+#footer .oferta{float:left;width:100%;font-size:14px;border-bottom:1px solid #69c;}
+#footer .oferta p{margin:8px;color:#69c;}
+#footer .copyry{float:left;}
+#footer .copyry p{margin:8px;}
+.metrika{float:right;min-width:100px;min-height:30px;margin-top:5px;}
+.podelitsia{float:left;margin:5px auto auto 40px;}
+#downbar{float:left;background:url(../img/downbar2.png) no-repeat;width:100%;height:170px}
+
+.hb1{float:left;background:url(../img/hb1.png) repeat-x;width:100%;height:8px;}
+.hb2{float:left;background:url(../img/hb2.png) repeat-x;width:100%;height:7px;}
+.sectionnews{float:left;background:#eee;width:100%;margin-bottom:20px}
+.sectionnews img{float:left;max-width:300px;max-height:226px;margin:8px}
+.newsfoto {float:left;width:226px;height:226px;margin:8px;cursor:pointer;}
+.newstext{}
+
+.sectiontkani{float:left;width:100%;background:#eee;margin-top:20px}
+.sectiontkani ul{list-style:none}
+.tkanihb1{clear:left;background:url(../img/hb1.png) repeat-x;width:100%;height:8px;}
+.tkanihb2{clear:left;background:url(../img/hb2.png) repeat-x;width:100%;height:7px;}
+.sectiontkani .hbempty{float:left;width:100%;height:20px;background:white}
+.tkanitext{margin:5px;}
+.galery{float:left;background:#fff;max-width:349px;height:auto;margin:10px;}
+.tkanifoto{float:left;width:226px;height:226px;margin:4px 4px 4px 4px;}
+.tkaniminifoto{float:right;width:111px;height:111px;margin:4px 4px 0 0;}
+
+.contakt{float:left;width:100%}
+.map{float:left;margin:10px}
+.fasad{float:right;margin:10px}
+
+.contentatelie{float:left;background:white;height:100%;}
+.contentatelie ul li{margin:20px}
+
+.right{float:right;width:208px;background:white;padding:8px}
+.right ul{list-style:none;border-left:1px solid gray;padding-left:5px}
+.minifoto{display:block;width:128px;height:128px;margin:0 auto;cursor:pointer;}
+.right article{margin:10px 0}
+
+
+#mypos{display:none}
+
+
+#html_banner_faze1{
+    left:0px; top:0px; width:100%;height:100%;
+    animation-name: example1;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    background-image:url(../img/slideshow/1.jpg)
+}
+@keyframes example1 {
+    0%   {opacity: 0.0;}
+    15%  {opacity: 0.0;}
+    20%  {opacity: 1.0;}
+    95%  {opacity: 1.0;}
+    100% {opacity: 0.0;}
+}
+#html_banner_faze2{
+    left:0px; top:0px; width:100%;height:100%;
+    animation-name: example2;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    background-image:url(../img/slideshow/2.jpg)
+}
+@keyframes example2 {
+    0%   {opacity: 0.0;}
+    35%  {opacity: 0.0;}
+    40%  {opacity: 1.0;}
+    95%  {opacity: 1.0;}
+    100% {opacity: 1.0;}
+}
+#html_banner_faze3{
+    left:0px; top:0px; width:100%;height:100%;
+    animation-name: example3;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    background-image:url(../img/slideshow/3.jpg)
+}
+@keyframes example3{
+    0%   {opacity: 0.0;}
+    55%  {opacity: 0.0;}
+    60%  {opacity: 1.0;}
+    95%  {opacity: 1.0;}
+    100% {opacity: 1.0;}
+}
+#html_banner_faze4{
+    left:0px; top:0px; width:100%;height:100%;
+    animation-name: example4;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    background-image:url(../img/slideshow/4.jpg)
+}
+@keyframes example4{
+    0%   {opacity: 0.0;}
+    75%  {opacity: 0.0;}
+    80%  {opacity: 1.0;}
+    95%  {opacity: 1.0;}
+    100% {opacity: 1.0;}
+}

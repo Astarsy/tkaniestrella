@@ -1,0 +1,32 @@
+User-agent: Yandex
+Disallow: /an.html
+Disallow: /cont.shtml
+Disallow: /contentatelie.html
+Disallow: /foo.html
+Disallow: /hed.html
+Disallow: /nav.html
+Disallow: /right.html
+Disallow: /tk.html
+Host: tkaniestrella.ru
+
+User-agent: Googlebot
+Disallow: /an.html
+Disallow: /cont.shtml
+Disallow: /contentatelie.html
+Disallow: /foo.html
+Disallow: /hed.html
+Disallow: /nav.html
+Disallow: /right.html
+Disallow: /tk.html
+
+User-agent: *
+Disallow: /an.html
+Disallow: /cont.shtml
+Disallow: /contentatelie.html
+Disallow: /foo.html
+Disallow: /hed.html
+Disallow: /nav.html
+Disallow: /right.html
+Disallow: /tk.html
+
+Sitemap: http://tkaniestrella.ru/sitemap.xml
