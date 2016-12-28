@@ -17,6 +17,87 @@
 	<h2>Новые поступления</h2>
 	<section class="sectionnews">
 		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_6978.jpg)"></div>
+		<article class="newstext">
+			<h3>27.12.2016 Плащёвка.</h3>
+            <p>Поступила в продажу плащёвка с водонепроницаемой обработкой в ассортименте. Отличный выбор как однотонных вариантов, от тёмных до ярких оттенков, так и принтованных.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_6560.jpg)"></div>
+		<article class="newstext">
+			<h3>27.12.2016 Бархат.</h3>
+            <p>Поступил в продажу бархат редких оттенков- терракотовый, горчичный и коралловый. Бархат великолепного качества, с плотно набитым ворсом.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_5084.JPG)"></div>
+		<article class="newstext">
+			<h3>4.11.2016 Искуственный мех.</h3>
+            <p>Поступил в продажу искуственный мех по привлекательной цене. Подходит для отделки, пошива самостоятельных изделий и для изготовления элементов отделки интерьера.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_4238.JPG)"></div>
+		<article class="newstext">
+			<h3>4.11.2016 Жаккарды.</h3>
+            <p>Поступили в продажу жаккарды в ассортименте.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_4139.JPG)"></div>
+		<article class="newstext">
+			<h3>4.11.2016 Перфорированная замша.</h3>
+            <p>Поступила в продажу перфорированная замша с компаньоном. По внешнему виду и "характеру" идентична натуральной замше. Край не осыпается, подходит для пошива моделей "под обрезку".</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_4529.JPG)"></div>
+		<article class="newstext">
+			<h3>2.09.2016 Жаккард.</h3>
+            <p>Поступил в продажу фактурный жаккард. Хорошо держит форму, подходит для пошива пышных юбок.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_3371.JPG)"></div>
+		<article class="newstext">
+			<h3>2.09.2016 Жаккард.</h3>
+            <p>Поступил в продажу жаккард с эластаном чёрного цвета- отличный вариант для пошива строгих платьев- футляров или костюмов.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_3375.JPG)"></div>
+		<article class="newstext">
+			<h3>2.09.2016 Принтованное джерси.</h3>
+            <p>Поступило в продажу принтованное джерси. Очень мягкое и приятное к телу, идеальный вариант для тёплого платья или пуловера.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
+		<div class="newsfoto" style="background-image:url(img/226/IMG_3379.JPG)"></div>
+		<article class="newstext">
+			<h3>2.09.2016 Костюмная.</h3>
+            <p>Костюмная ткань молочного цвета с эластаном. Отлично подходит для пошива брюк, деловых костюмов и юбок.</p>
+		</article>
+		<div class="hb2"></div>
+	</section>
+	<section class="sectionnews">
+		<div class="hb1"></div>
 		<div class="newsfoto" style="background:url(img/226/t-ru.jpg) no-repeat 100% 50%;background-size:100% auto"></div>
 		<article class="newstext">
 			<h3>21.07.2016 Интернет-магазин Tkanusha.ru</h3>

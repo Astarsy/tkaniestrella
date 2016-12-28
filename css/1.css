@@ -2,16 +2,39 @@
 body{font-family:'Segoe UI', Arial, Helvetica, sans-serif;font-style:italic;
 	background:url(../img/back.jpg) no-repeat center center fixed;
 	background-size:cover}
-#maket{width:1024px;margin:auto;position:relative;background:#fff}
+#maket{
+    width:1024px;
+    margin:auto;
+    position:relative;
+    background:#fff;
+}
 
 p,h3{text-indent:1em}
 h1,h2,h4{text-align:center}
-header{background:#001b8e;height:170px}
-header #headtext{padding:12px 15px 0 0;color:white;text-align:right}
-header #headtext #toptext{font-size:x-large;font-weight:bold}
-header #headtext #bottext{margin-top:20px}
+.header{
+    padding-top: 140px;
+    background:#001b8e;
+    height:180px;
+}
+.header #headtext{
+    padding:12px 15px 0 0;
+    color:white;
+    text-align:right;
+}
+.header #headtext #toptext{font-size:x-large;font-weight:bold}
+.header #headtext #bottext{margin-top:20px}
 a:visited,a:link{color:blue}
 a {text-decoration:none}
+
+.crismas{
+    position: fixed;
+    width: 1024px;
+    height: 198px;
+    background-image:url(../img/crismas_header.png);
+    background-size: cover;
+    z-index: 999;
+}
+
 #logo{margin-left:20px;float:left;background:url(../img/logo.jpg);width:476px;height:157px}
 #conttop{float:left}
 #conttopleft{float:left;width:650px;height:420px;background-image:url(../img/slideshow/0.jpg);}
